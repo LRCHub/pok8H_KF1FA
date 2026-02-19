@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Say So",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-02-19T15:17:45.088526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/01_Say_So_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Say So Much",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/02_Say_So_Much_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sad Songs (Say So Much)",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/03_Sad_Songs_(Say_So_Much)_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sad Songs (Say So Much)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/04_Sad_Songs_(Say_So_Much)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Hear You Say So",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/05_I_Hear_You_Say_So_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Ain't No Big Thing (Just Say So Long) (Remastered 2015)",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/06_It_Ain't_No_Big_Thing_(Just_Say_So_Long)_(Remastered_2015)_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sad Songs (Say So Much)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_Sad_Songs_(Say_So_Much)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Say So (feat. Nicki Minaj)",
+      "artist": "Doja Cat feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/08_Say_So_(feat._Nicki_Minaj)_Doja_Cat_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Say So (feat. Nicki Minaj)",
+      "artist": "Doja Cat, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/09_Say_So_(feat._Nicki_Minaj)_Doja_Cat,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Say So",
+      "artist": "First to Eleven",
+      "has_synced": false,
+      "path": "select/10_Say_So_First_to_Eleven.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/11_Say_So_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sad songs (say so much)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/12_Sad_songs_(say_so_much)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Say So (feat. Nicki Minaj) [Original Version]",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/13_Say_So_(feat._Nicki_Minaj)_[Original_Version]_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Say So (Original Version)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/14_Say_So_(Original_Version)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say So / Like That (Mashup)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/15_Say_So___Like_That_(Mashup)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So Much To Say, So Much To Give",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/16_So_Much_To_Say,_So_Much_To_Give_Chicago.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Stop ('til I Say So)",
+      "artist": "Karate Body",
+      "has_synced": true,
+      "path": "select/17_Don't_Stop_('til_I_Say_So)_Karate_Body.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Say_So_Doja_Cat.txt"
+    }
+  ]
+}
